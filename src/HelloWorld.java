@@ -18,5 +18,6 @@ public class HelloWorld {
         HelloWorld obj = new HelloWorld();
         int result = obj.addition(first, second);
         System.out.println("The addition of those numbers equals = " + result);
+        System.out.println("Henlo World xD");
     }
 }
